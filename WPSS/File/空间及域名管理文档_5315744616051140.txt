@@ -1,0 +1,30 @@
+
+
+
+      空间部份：
+       用户的FTP登陆用户名是： oyangxizhe
+　　　 用户的FTP密码是：    9C967531B0d85
+　　　 您的网址为：http://oyangxizhe.a174.cnaaa10.com/
+　　　 FTP地址是：27.54.254.174 
+　　　 服务器IP是：电信:联通:
+       DB还原网站：
+       域名部份
+       配置域名网站地址：http://www.cnaaa.com
+
+ <add key="ConnectionDB" value="Data Source=localhost;Database=a0601173123;User id=a0601173123;PWD=11537375"/>
+
+s.cnaaa11.com
+113.10.138.11
+
+customer
+http://www.xinnet.com/vps/cloudvps.do?method=vpsHostingList&hostType=2
+dinkeylee
+PW：dinkey57668799
+58.211.73.247
+vcp XNYY0368361
+pwd w1m2s1q5
+
+
+Zt%h2rLd$w8z
+sa:dinkeylee131015(
+my vps 115.47.44.108
